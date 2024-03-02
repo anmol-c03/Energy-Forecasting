@@ -7,13 +7,13 @@ Energy forecasting is the process of predicting future energy consumption, produ
 # Comparision
 ![Comparision](https://github.com/anmol-c03/Forecasting/blob/main/Desktop/AI_ML_model/Forecasting/images/comparision%20.png)
 
-# feature_importances
-![feature_importances](https://github.com/anmol-c03/Forecasting/blob/main/Desktop/AI_ML_model/Forecasting/images/feature_importances.png)
+<!-- # feature_importances
+![feature_importances](https://github.com/anmol-c03/Forecasting/blob/main/Desktop/AI_ML_model/Forecasting/images/feature_importances.png) -->
 
 
 # Instructions
 All the details about problem statement and corresponding solution is thoroughly replained in notebook.
 
 # Contributors
-
+https://github.com/bishram-acharya
 
